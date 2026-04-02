@@ -28,3 +28,6 @@ Gabe Sali Cooper Oneida
 ### What do edge sensitive circuits let us build?
 
 Edge sensitive circuits allow us to build registers to store data and constantly update it. They are also needed to build counters for clocks in electronics. Traffic lights also use them to know what color to shine at what time. Computers in general need them for consistent, clean data storage and processing.
+
+
+P.S. Although Cooper was absent this lab, he is an absolutely phenomenal lab partner and deserves full points. I am including his name here as he had something to attend to today. I am not sure if you were planning on marking him down, but if you were please don't.
