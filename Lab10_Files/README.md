@@ -12,7 +12,7 @@ In this lab, you’ve learned about edge sensitive circuits and explored some of
 |Question 3|Your answers to the question|25%|
 
 ## Names
-Gabe Sali Cooper Oneida
+Gabe Sali, Cooper Oneida
 ## Summary
   This lab was intended to demonstrate the difference between different types of flip flop circuits and how to deal with clock timing. The D Flip Flop works by sensing the clock from button C and outputting 0 or 1 depending on if D is active. The JK flip flop we built takes different combinations of J and K to determine if the circuit wants to toggle, set, reset, or remain at the previous Q when the clock is active. The T flip flop circuit works by either toggling or not toggling based on the input whenever it senses a positive clock edge(button press).
 ## Lab Questions
